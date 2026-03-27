@@ -1,7 +1,7 @@
 name = "HOPE"
 uuid = "2ce8c7c5-3207-4bce-8974-65cdad2c68ed"
-authors = ["swang22 <worldspace321@gmail.com> and contributors"]
 version = "1.0.0-DEV"
+authors = ["swang22 <worldspace321@gmail.com> and contributors"]
 
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
@@ -31,6 +31,7 @@ XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
+BenchmarkTools = "1"
 julia = "1"
 
 [extras]
